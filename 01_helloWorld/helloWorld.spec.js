@@ -1,3 +1,4 @@
+// import { helloWorld } from './helloWorld'
 const helloWorld = require('./helloWorld');
 
 describe('Hello World', function() {
